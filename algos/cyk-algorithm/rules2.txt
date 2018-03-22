@@ -1,0 +1,11 @@
+S->NP VP
+NP->Adj Noun
+NP->Det Noun
+VP->V NP
+Adj->fruit
+Noun->flies
+V->like
+Det->a
+Noun->banana
+Noun->tomato
+Adj->angry

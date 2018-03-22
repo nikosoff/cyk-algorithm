@@ -1,0 +1,15 @@
+S->V NP
+S->V Phrase
+Nominal->Adj N
+Nominal->N PP
+NP->Det N
+NP->Det Nominal
+Phrase->NP PP
+PP->Prep NP
+V->είδαμε
+Det->τον
+Det->την
+N->γιατρό
+N->μπλούζα
+Prep->με
+Adj->άσπρη
